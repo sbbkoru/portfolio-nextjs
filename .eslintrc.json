@@ -1,6 +1,4 @@
 {
   "extends": "next/core-web-vitals",
-  "parser": "@babel/eslint-parser",
-  "requireConfigFile": false,
-  "ecmaVersion": 8
+  "parser": "@babel/eslint-parser"
 }
